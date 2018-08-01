@@ -1,0 +1,52 @@
+.row{   
+
+    background-color:Black;
+    color:white;
+    font-size:15px;
+}
+.headshot{
+    width:10%;
+    align-items:center;
+}
+   
+
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:100px;
+    margin-top:1px;
+    margin-bottom:1px;
+}
+.aboutme{
+    border:1px #ff0000; 
+    font-size:35px;
+}
+.rowmid{
+    display:flex;
+    justify-content:space-between;
+    
+}
+.photo{
+    display:flex;
+    justify-content:center;
+    width:100%;
+    height: 200px;
+    background-image:url("jason.jpeg");
+    background-size: cover;
+}
+.myphoto{
+    display:flex;
+    justify-content:center;
+    width:200px;
+    height: 200px;
+   
+}
+.headshot{
+    width:50px;
+    height:50px;
+}
+body{
+    background-image:url("https://images.unsplash.com/photo-1496207108470-3878e528167d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=32a5a3760c56aa3f146bab17be4880db&auto=format&fit=crop&w=1050&q=80");
+    background-color:#ff0000;
+}
